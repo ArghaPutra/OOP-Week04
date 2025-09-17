@@ -3,7 +3,7 @@ public class MataKuliah {
     private String nama;
     private int sks;
 
-    public MataKuliah(){}
+    public Matakuliah(){}
     public MataKuliah(String Kode, String nama, int sks) {
         this.Kode = Kode;
         this.nama = nama;
